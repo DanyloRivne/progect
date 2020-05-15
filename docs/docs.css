@@ -1,0 +1,28 @@
+html, body {
+  min-height: 100%;
+}
+* {
+  box-sizing: border-box;
+}
+h1 {
+  font-weight: initial;
+}
+#main-content {
+  padding-bottom: 5rem;
+}
+.doc {
+  font-family: sans-serif;
+  background-color: white;
+  width: 50rem;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 1em;
+  line-height: 1.4em;
+  padding: 2rem;
+}
+#about-link-container {
+  color: white;
+}
+.pipe {
+  margin: 0 0.5em;
+}
